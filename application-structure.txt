@@ -1,0 +1,36 @@
+myfoodcafeapp/
+├── backend/
+│   ├── FoodCafe/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── Gbs/
+│   │   ├── __init__.py
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   └── manage.py
+├── frontend/
+│   ├── node_modules/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   ├── src/
+│   │   ├── components/
+│   │   ├── images/
+│   │   ├── styles/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── serviceWorker.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   └── tailwind.config.js
+├── .gitignore
+├── LICENSE
+└── README.md
+

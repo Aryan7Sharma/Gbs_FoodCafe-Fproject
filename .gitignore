@@ -1,0 +1,15 @@
+# Python-related files
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Editor/IDE-related files
+.vscode/
+.idea/
+*.iml
+
+# Other files
+.DS_Store
+.env
