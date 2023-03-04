@@ -5,6 +5,12 @@ __pycache__/
 dist/
 build/
 
+
+
+#node_modules 
+/node_modules
+/.pnp
+.pnp.js
 # Editor/IDE-related files
 .vscode/
 .idea/
